@@ -1,2 +1,2 @@
-# scrapper
-web scraping paginated websites
+# scraper
+Web scraping paginated websites
